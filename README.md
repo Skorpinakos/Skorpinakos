@@ -6,7 +6,7 @@
 
 <a href="https://stackoverflow.com/users/11184186/ioannis-tsampras" target="_blank">
 <img alt="StackOverflow"
-src="https://stackoverflow-badge.vercel.app/?userID=11184186" style="width:200px;" />
+src="https://stackoverflow-badge.vercel.app/?userID=11184186" style="width:210px;" />
 </a>
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCpW5v4UH5RGYkC82Kr0hBGg)  ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCpW5v4UH5RGYkC82Kr0hBGg)
