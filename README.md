@@ -4,7 +4,8 @@
 
 
 
-<a href="https://stackoverflow.com/users/11184186/ioannis-tsampras" target="_blank"> style="color:blue;"
+<a href="https://stackoverflow.com/users/11184186/ioannis-tsampras" target="_blank">"
+style="color:blue;"
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=11184186" />
 </a>
