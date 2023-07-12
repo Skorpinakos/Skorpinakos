@@ -9,8 +9,5 @@
 src="https://stackoverflow-badge.vercel.app/?userID=11184186" />
 </a>
 
-<a href="https://stackoverflow.com/users/11184186/ioannis-tsampras" target="_blank">
-<img alt="YouTubeViews"
-src="[https://stackoverflow-badge.vercel.app/?userID=11184186](https://img.shields.io/youtube/channel/views/UCpW5v4UH5RGYkC82Kr0hBGg)https://img.shields.io/youtube/channel/views/UCpW5v4UH5RGYkC82Kr0hBGg" />
-</a>
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCpW5v4UH5RGYkC82Kr0hBGg)
 
