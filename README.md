@@ -1,4 +1,4 @@
-## Welcome
+## Welcome to my shed fellow wizard ⚡
 
 ![DALL·E 2023-07-10 10 17 22 - Cloudy Scotland fgfgfield](https://github.com/Skorpinakos/Skorpinakos/assets/82767099/1e5b1af4-3315-4b88-a20b-d87a52affe26)
 
