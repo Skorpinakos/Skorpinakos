@@ -14,7 +14,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=11184186" style="width:220px
 
 <a href="[https://stackoverflow.com/users/11184186/ioannis-tsampras](https://www.linkedin.com/in/ioannis-tsampras-b0272a24b)" target="_blank">
 <img alt="Linkedin Profile"
-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width:220px;height=20px;" />
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="width:220px;height:20px;" />
 </a>
 
 
