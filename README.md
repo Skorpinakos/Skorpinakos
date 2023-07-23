@@ -10,5 +10,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=11184186" style="width:220px
 </a>
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCpW5v4UH5RGYkC82Kr0hBGg)](https://www.youtube.com/@ioannis.tsampras) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCpW5v4UH5RGYkC82Kr0hBGg)](https://www.youtube.com/@ioannis.tsampras)
+[(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ioannis-tsampras-b0272a24b)
+
 
 
